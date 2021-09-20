@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:2021-9-20 13:34:28
+#ver:2021-9-20 14:09:07
 #plugin:5.0.5
 
 CACHE:
@@ -14,9 +14,9 @@ CACHE:
 ./static/fonts/lato-normal-italic.f28f2d6.woff
 ./static/fonts/lato-normal.27bd77b.woff
 ./static/js/vendor.71b5e9f16c0cca0d65e1.js
-./static/js/app.05e87767164bc06062a6.js
-./static/js/manifest.3b78220f0a0f4d97554e.js
-./static/css/app.d2af96f910099eda2335344b33cd3d4d.css
+./static/js/app.a571ea7c6accea7e0bce.js
+./static/js/manifest.50361e3c8703e7535134.js
+./static/css/app.10412a657722ab80021d73f0b3b6b224.css
 ./static/landing/abc.png
 ./static/landing/discussion.png
 ./static/landing/favicon.ico
