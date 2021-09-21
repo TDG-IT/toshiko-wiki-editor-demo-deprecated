@@ -1,11 +1,11 @@
 CACHE MANIFEST
-#ver:2021-9-20 14:09:07
+#ver:2021-9-21 12:12:07
 #plugin:5.0.5
 
 CACHE:
-./icons-c75a9472175cc17394ba6428d867fbcf/favicon.ico
-./icons-c75a9472175cc17394ba6428d867fbcf/manifest.json
-./icons-c75a9472175cc17394ba6428d867fbcf/manifest.webapp
+./icons-f97fae2f92515bcda5e9f3e36cbb2017/favicon.ico
+./icons-f97fae2f92515bcda5e9f3e36cbb2017/manifest.json
+./icons-f97fae2f92515bcda5e9f3e36cbb2017/manifest.webapp
 ./c41f2b90c69370845f53.worker.js
 ./static/fonts/RobotoMono-Bold.819f3b2.woff
 ./static/fonts/RobotoMono-Regular.0b6a547.woff
@@ -14,9 +14,9 @@ CACHE:
 ./static/fonts/lato-normal-italic.f28f2d6.woff
 ./static/fonts/lato-normal.27bd77b.woff
 ./static/js/vendor.71b5e9f16c0cca0d65e1.js
-./static/js/app.a571ea7c6accea7e0bce.js
-./static/js/manifest.50361e3c8703e7535134.js
-./static/css/app.10412a657722ab80021d73f0b3b6b224.css
+./static/js/app.33e72899251bb760ebc9.js
+./static/js/manifest.323de6da6bfddba28133.js
+./static/css/app.b201f9db56192ae01180d6cb1b5d5a8f.css
 ./static/landing/abc.png
 ./static/landing/discussion.png
 ./static/landing/favicon.ico
@@ -32,13 +32,13 @@ CACHE:
 ./static/landing/twemoji.png
 ./static/landing/workspace.png
 ./static/sitemap.xml
-./manifest.bac9ef5de71b3a60b8760bdf6ac62ec7.json
-./icon_512x512.bc1452c3b77b59eb0d8c449de1c77310.png
-./icon_384x384.3f55b77300c8b37b4aa380c8460ee0a2.png
-./icon_256x256.f406288343ae34c5c7bd1543700c2ac0.png
-./icon_192x192.eec0feaecc5bef1a499b3de11bde6b27.png
-./icon_128x128.43ad56ce3535a3ffe333a76a05c13267.png
-./icon_96x96.1d93fc90dc62ceec6c921786ddab3f69.png
+./manifest.d556a821c4e7a0c6cac225a7e198ec4e.json
+./icon_512x512.148ed2397c1083b4201b036ee345db86.png
+./icon_384x384.0c70543586344a2aaede0780f1f66a8d.png
+./icon_256x256.9020aad8995b864f10d2e0379f087f82.png
+./icon_192x192.5bba6dde98d1b8dc3703dbef7f509248.png
+./icon_128x128.d87bc461dafa4559b3c5683be2a0bbda.png
+./icon_96x96.7cd67354fa140f4137742edf4510f95a.png
 /
 /app
 /oauth2/callback
